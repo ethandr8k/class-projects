@@ -32,7 +32,7 @@ Final Portfolio of proofs and class reflection from my Intro to Advanced Math co
 
 ### 4. Understanding Analysis — Write-Up
 
-Final Presentation for Real Analysis explaining Cantor's Diagonalization Theorem and the countability of the Real Numbers
+Final Presentation for Real Analysis explaining Cantor's Diagonalization Theorem and the countability of the Real Numbers. 
 
 **Key concepts:** Real analysis, proof writing. 
 
