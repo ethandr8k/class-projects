@@ -1,2 +1,3 @@
-# class-projects
-A collection of class projects from various courses that have been useful learning experiences as well as interesting research projects.
+# Projects
+Interesting research projects that I have found to be interesting. 
+
