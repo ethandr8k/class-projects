@@ -43,4 +43,4 @@ Final Presentation for Real Analysis explaining Cantor's Diagonalization Theorem
 ## Technical Interests
 
 My broader interests include computational neuroscience, neural engineering, mathematical modeling of biological systems, scientific computing, and numerical simulation.
-I am particularly interested in applying mathematics, physics, and programming to understand complex biological systems.
+I am particularly interested in applying mathematics, physics, and programming to understand complex systems.
